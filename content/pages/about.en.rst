@@ -1,0 +1,13 @@
+About
+#####
+
+:date: 2010-10-03 10:20
+:modified: 2010-10-04 18:40
+:tags: 
+:category: 
+:slug: about
+:authors: Austin Bingham
+:summary: About Heggedal Makerspace
+:lang: en
+
+About Heggedal Makerspace
