@@ -1,0 +1,14 @@
+[project]
+name = Make Heggedal
+locale = no_NB
+
+[alternatives.no]
+name = Norsk
+locale = no_NB
+primary = yes
+
+[alternatives.en]
+name = English
+locale = en_US
+url_prefix=/en
+
