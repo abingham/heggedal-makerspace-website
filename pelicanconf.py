@@ -47,3 +47,9 @@ I18N_SUBSITES = {
         'SITENAME': 'Make Heggedal',
     }
 }
+
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n']
+}
+I18N_GETTEXT_LOCALEDIR = 'themes/maker/translations'
+I18N_GETTEXT_DOMAIN = 'messages'
