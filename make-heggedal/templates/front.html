@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+<div class="container-fluid text-center">
+    <div class="row">
+        <div class="col-6 offset-3">
+            <h1>Make Heggedal</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6 offset-3">
+            <img src="/fabrikken.png" width="100%">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6 offset-3">
+            {{ this.body }}
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,9 +1,8 @@
 body {
-    font-family: 'Verdana', sans-serif;
     margin: 50px 25px;
 }
 
-a {
+/* a {
     color: #2a99b6;
 }
 
@@ -39,4 +38,14 @@ header nav ul li {
 
 div.page {
     background: #f1fbfe;
-}
+} */
+
+.footer { 
+    position: fixed; 
+    padding: 10px 10px 0px 10px; 
+    bottom: 0; 
+    width: 100%; 
+    /* Height of the footer*/  
+    height: 40px; 
+    background: grey; 
+} 
