@@ -1,13 +1,13 @@
-About
-#####
+Make Heggedal
+#############
 
 :date: 2010-10-03 10:20
 :modified: 2010-10-04 18:40
 :tags: 
 :category: 
-:slug: about
+:slug: index
 :authors: Austin Bingham
-:summary: About Heggedal Makerspace
-:lang: en
+:summary: Om Make Heggedal
+:lang: no
 
-About Heggedal Makerspace
+Om Make Heggedal

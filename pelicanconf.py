@@ -4,7 +4,7 @@
 import os
 
 AUTHOR = 'Austin Bingham'
-SITENAME = 'Heggedal Makerspace'
+SITENAME = 'Make Heggedal'
 SITEURL = ''
 THEME = 'themes/maker'
 
@@ -12,7 +12,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Oslo'
 
-DEFAULT_LANG = 'no-nb'
+DEFAULT_LANG = 'no'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -41,9 +41,9 @@ PLUGINS = ['i18n_subsites']
 
 I18N_SUBSITES = {
     'no': {
-        'SITENAME': 'Heggedal Makerspace',
+        'SITENAME': 'Make Heggedal',
     },
     'en': {
-        'SITENAME': 'Heggedal Makerspace',
+        'SITENAME': 'Make Heggedal',
     }
 }
