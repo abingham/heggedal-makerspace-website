@@ -1,19 +1,19 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-<div class="container-fluid text-center">
-    <div class="row">
-        <div class="col-6 offset-3">
-            <h1>Make Heggedal</h1>
+<!-- <div class="jumbotron text-center" id="front-splash">
+    <h1 class="display-4">Make Heggedal</h1>
+</div>
+ -->
+<div class="container-fluid">
+    <div class="row" id="front-splash">
+        <div class="col-12 my-auto text-center">
+            <h1 class="display-2">Make Heggedal</h1>
         </div>
     </div>
-    <div class="row">
-        <div class="col-6 offset-3">
-            <img src="/images/fabrikken.png" width="100%">
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6 offset-3">
+
+    <div class="row pt-5 text-center">
+        <div class="col-6 offset-3 display-4">
             {{ this.body }}
         </div>
     </div>

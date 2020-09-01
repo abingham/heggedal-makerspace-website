@@ -1,6 +1,19 @@
 body {
     /* margin: 50px 25px; */
-    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Noto Serif', serif;
+}
+
+#front-splash {
+    font-family: 'Alfa Slab One', cursive;
+    background-image: url('/images/design.png');
+    background-size: cover;
+    background-position-y: center;
+    color: white;
+    height: 20em;
+}
+
+header nav {
+    font-family: 'Alfa Slab One', cursive;
 }
 
 /* a {
