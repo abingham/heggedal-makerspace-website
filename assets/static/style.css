@@ -7,7 +7,7 @@ body {
     font-family: 'Alfa Slab One', cursive;
     background-image: url('/images/design.png');
     background-size: cover;
-    background-position-y: center;
+    background-position-y: top;
     color: white;
     height: 20em;
 }
