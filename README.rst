@@ -18,3 +18,8 @@ Developers
 You can run an auto-reloading development server with::
 
     lektor serve
+
+Deployment
+==========
+
+When you push to the master branch on github, we deploy it make-heggedal.no.
